@@ -19,7 +19,7 @@ color:white !important;
  box-shadow: 0.2rem 0.2rem 1rem #17a2b8;
 }
 .section-watch-season {
-background-color: rgba(0,0,0,0.7);
+background-color: rgba(0,0,0,0.7) !important;
 }
 
 `
